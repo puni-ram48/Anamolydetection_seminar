@@ -23,7 +23,6 @@ import utils
 LOGGER = logging.getLogger(__name__)
 
 _DATASETS = {
-    "mvtec": ["datasets.mvtec", "MVTecDataset"],
     "chest_xray": ["datasets.chest_xray", "ChestXRayDataset"],
 }
 

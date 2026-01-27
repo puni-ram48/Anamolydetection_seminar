@@ -5,7 +5,7 @@ This project extends [SimpleNet (CVPR 2023)](https://github.com/DonaldRR/SimpleN
 
 - Binary classification: **Normal vs Pneumonia**  
 - Grayscale-to-RGB conversion for pretrained backbones  
-- Demonstrates **generalization of industrial anomaly detection to medical data**  
+- Shows that the SimpleNet architecture can be successfully applied to chest X-ray images from scratch
 
 **Dataset:** [Chest X-Ray Pneumonia (Kaggle)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)  
 - 5,863 images (pediatric, 1–5 yrs)  

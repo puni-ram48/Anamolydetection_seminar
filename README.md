@@ -58,5 +58,6 @@ python main.py \
   year={2018},
   publisher={Mendeley Data},
   doi={10.17632/rscbjbr9sj/2}
+  kaggel = {https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 }
 ```
